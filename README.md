@@ -32,10 +32,32 @@
 
 ## 🛠️ Tech Stack
 
+<!-- 🌌 Moving Glow Bar -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,aws,bootstrap" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/glowing-line.gif" width="100%" />
 </p>
 
+<!-- ⚡ Animated Tech Slider -->
+<p align="center">
+  
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+
+</p>
+
+<!-- 🌌 Bottom Glow Bar -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:8A2BE2,100:FF00FF&height=6&section=header" />
+</p>
 
 ---
 
