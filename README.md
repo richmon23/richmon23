@@ -4,7 +4,7 @@
 </p>
 
 <!-- 👋 WELCOME -->
-<h2 align="center">👋 Welcome to my GitHub</h2>
+<h2 align="center">👋 Welcome to my GitHub its me mort v2</h2>
 
 <!-- ✨ TYPING ANIMATION -->
 <p align="center">
